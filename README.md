@@ -17,6 +17,7 @@ I build and ship production machine learning and data platforms end to end, from
 
 ## Open-source tooling
 
+- [battery-passport-kit](https://github.com/Jwrede/battery-passport-kit): create, validate and check EU battery passports (Regulation 2023/1542) with the BatteryPass-Ready data model.
 - [aipreflight](https://github.com/Jwrede/aipreflight): production readiness gate for LLM/RAG services (eval, cost, latency, SLA gates).
 - [llmprobe](https://github.com/Jwrede/llmprobe): synthetic monitoring and CI smoke tests for LLM inference endpoints.
 - [tokentoll](https://github.com/Jwrede/tokentoll): LLM cost diffs in code review.
